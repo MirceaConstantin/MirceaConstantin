@@ -13,4 +13,4 @@ In progress...
 
 <br /><br /><br /><br /><br /><br /><br />
 
-<a href="https://www.buymeacoffee.com/micdev" target="_blank"><img height="42px" width="180px" src="https://cdn.buymeacoffee.com/buttons/lato-green.png" alt="Buy Me A Coffee" ></a>
+<a href="https://www.buymeacoffee.com/micdev" target="_blank"><img align="right" height="42px" width="180px" src="https://cdn.buymeacoffee.com/buttons/lato-green.png" alt="Buy Me A Coffee" ></a>
